@@ -1,0 +1,11 @@
+{
+    "name": "example",
+    "description": "An example Lense module",
+    "version": "0.1.0",
+    "author": "djtaylor13@gmail.com",
+    "source": {
+        "type": "github",
+        "uri": "https://github.com/djtaylor/lense-module-example",
+        "branch": "master"
+    }
+}
