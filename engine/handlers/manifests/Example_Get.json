@@ -1,0 +1,18 @@
+{
+    "cls": "Example_Get",
+    "name": "example_get",
+    "path": "example",
+    "method": "GET",
+    "desc": "Example request handler",
+    "mod": "lense.engine.api.handlers.example",
+    "protected": false,
+    "enabled": true,
+    "object": None,
+    "object_key": None,
+    "rmap": {
+        "_required": [],
+        "_optional": [],
+        "_type": "dict",
+        "_children": {}
+    }
+}
